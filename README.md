@@ -1,4 +1,4 @@
-gha-test
+gha-test1
 ========
 
 this repository demonstrates a class of vulnerabilities in github actions
